@@ -12,3 +12,9 @@ Rules an agent should read before changing this repository.
 
 HUMAN NOTE: keep this line exactly as written, it was added by a person.
 <!-- END:learned-testing-and-linting -->
+
+<!-- BEGIN:learned-agents-md-format -->
+# AGENTS.md formatting conventions
+
+Marker blocks in AGENTS.md require specific formatting: bullets use `•` character, lines end with trailing spaces, and two blank lines separate entries. Content within markers should not be reformatted.
+<!-- END:learned-agents-md-format -->
