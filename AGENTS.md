@@ -9,4 +9,8 @@ Rules an agent should read before changing this repository.
 • Run linting with `npm run lint`
 
 HUMAN NOTE: keep this line exactly as written, it was added by a person.
+
+# Test suite and linter commands
+
+This repository has a test suite and linter that contributors are expected to run before opening pull requests.
 <!-- END:learned-testing-and-linting -->
