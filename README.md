@@ -9,3 +9,7 @@ Source lives in `src/`; every module is re-exported from `src/index.js`.
 
 - **Running the test suite**: `npm test`
 - **Linting**: `npm run lint`
+
+## Contributing
+
+- Please run the test suite and the linter before opening a pull request.
