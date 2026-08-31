@@ -1,0 +1,11 @@
+{
+  "name": "forge-learned-rules-e2e",
+  "version": "1.0.0",
+  "description": "Tiny scratch project used as a target for Aine Forge e2e runs.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test test/",
+    "lint": "eslint src test",
+    "build": "node scripts/build.js"
+  }
+}
