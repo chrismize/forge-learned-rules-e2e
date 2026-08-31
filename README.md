@@ -9,3 +9,5 @@ Source lives in `src/`; every module is re-exported from `src/index.js`.
 
 - **Running the test suite**: `npm test`
 - **Linting**: `npm run lint`
+
+Fixture repo for Aine Forge end-to-end runs.
