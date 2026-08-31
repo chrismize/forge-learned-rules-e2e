@@ -9,3 +9,7 @@ Source lives in `src/`; every module is re-exported from `src/index.js`.
 
 - **Running the test suite**: `npm test`
 - **Linting**: `npm run lint`
+
+## Checks
+
+Before committing, ensure that both `npm test` and `npm run lint` pass successfully.
